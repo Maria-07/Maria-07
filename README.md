@@ -1,6 +1,6 @@
-<h1 align="center">
+<!-- <h1 align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=30&duration=3000&pause=1000&color=6EE7B7&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Zayed;Software+Engineer+%7C+AI+Builder;Backend+%7C+Cloud+%7C+Full-Stack;Tech+Educator+%F0%9F%8E%93" alt="Typing SVG" />
-</h1>
+</h1> -->
 
 <h3 align="center">⚡ Software Engineer @ Strativ Bangladesh &nbsp;|&nbsp; 🤖 AI Agent Builder &nbsp;|&nbsp; 🎓 Tech Educator</h3>
 
